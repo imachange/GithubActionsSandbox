@@ -1,0 +1,19 @@
+{
+  "name": "githubactionssandbox",
+  "version": "1.0.0",
+  "description": "Github Actionsのテストや試行錯誤をするための実験用リポジトリ",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "textlint": "^14.0.4",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1"
+  }
+}
