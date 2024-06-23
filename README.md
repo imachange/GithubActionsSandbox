@@ -1,0 +1,2 @@
+# GithubActionsSandbox
+Github Actionsのテストや試行錯誤をするための実験用リポジトリ
