@@ -1,0 +1,12 @@
+on: 
+  workflow_dispatch: {} 
+  push: 
+    branches: 
+    - main
+
+jobs: 
+  say-hello: 
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Print hello 
+      run: echo "hello"
